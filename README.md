@@ -49,6 +49,7 @@ dashboard to monitor and analysis the evolution of covid19 in the world
 •	Interpolation
 •	extrapolate only if fit exists and has negative slope
 •	total values at collection date
+
 6.	APP callback
 
  
